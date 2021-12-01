@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/locales/ru.js"],"names":["languages"],"mappings":"yGAAA,OAAe,cACbA,UAAW","file":"js/lang-ru.5db2de3c.js","sourcesContent":["export default {\n  languages: 'язык'\n}\n"],"sourceRoot":""}

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["DefaultLayout"],{1872:function(t,e,u){"use strict";u.r(e);var n=function(){var t=this,e=t.$createElement,u=t._self._c||e;return u("div",{staticClass:"default-layout"},[u("router-view")],1)},a=[],c={name:"DefaultLayout"},l=c,f=(u("fe45"),u("2877")),o=Object(f["a"])(l,n,a,!1,null,null,null);e["default"]=o.exports},f66c:function(t,e,u){},fe45:function(t,e,u){"use strict";u("f66c")}}]);
+//# sourceMappingURL=DefaultLayout.252a681c.js.map

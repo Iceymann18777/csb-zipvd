@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/locales/en.js"],"names":["languages"],"mappings":"2GAAA,OAAe,cACbA,UAAW","file":"js/lang-en.161338d3.js","sourcesContent":["export default {\n  languages: 'languages'\n}\n"],"sourceRoot":""}
